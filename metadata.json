@@ -1,0 +1,7 @@
+{
+  "name": "MYRAA",
+  "description": "Futuristic voice AI companion powered by Gemini Live",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
